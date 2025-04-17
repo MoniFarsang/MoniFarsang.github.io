@@ -10,16 +10,16 @@ subtitle: PhD student @ TU Wien
     <tbody>
         <tr style="border: none;">
             <td style="padding-top:0px;width:25%;vertical-align:middle;text-align:center;max-height:100px;border: none;">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TU_Signet_CMYK.svg/250px-TU_Signet_CMYK.svg.png" alt="fast-texture" height="50">
+              <img src="assets/img/tuwien.png" alt="TU Wien" height="50">
             </td>
             <td style="padding-top:0px;width:25%;vertical-align:middle;text-align:center;max-height:100px;border: none;">
-              <img src="https://tig.csail.mit.edu/images/csail-logo.png" alt="fast-texture" height="50">
+              <img src="assets/img/mit.png" alt="MIT CSAIL" height="50">
             </td>
             <td style="padding-top:0px;width:25%;vertical-align:middle;text-align:center;max-height:100px;border: none;">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/480px-Microsoft_logo.svg.png" alt="fast-texture" height="50">
+              <img src="assets/img/microsoft.png" alt="Microsoft Research" height="50">
             </td>
             <td style="padding-top:0px;width:25%;vertical-align:middle;text-align:center;max-height:100px;border: none;">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/2560px-Bosch-logo.svg.png" alt="fast-texture" height="30">
+              <img src="assets/img/bosch-logo.png" alt="Bosch" height="50">
             </td>
           </tr>
           <tr style="border: none;background-color:transparent">
@@ -51,13 +51,13 @@ subtitle: PhD student @ TU Wien
           </tr>
           <tr style="border: none;">
             <td style="font-size: small;padding:0px;margin-bottom:-50px;width:25%;vertical-align:middle;text-align:center;border: none;">
-              <img src="https://www.cs.bme.hu/bme_logo_kicsi_color.png" alt="fast-texture" height="50">
+              <img src="assets/img/bme.png" alt="BME" height="50">
             </td>
             <td style="font-size: small;padding:0px;margin-bottom:-50px;width:25%;vertical-align:middle;text-align:center;border: none;">
-              <img src="https://cdn.worldvectorlogo.com/logos/knorr-bremse.svg" alt="fast-texture" height="50">
+              <img src="assets/img/knorr-bremse.png" alt="Knorr-Bremse" height="50">
             </td>
             <td style="font-size: small;padding:0px;margin-bottom:-50px;width:25%;vertical-align:middle;text-align:center;border: none;">
-              <img src="https://www.cs.bme.hu/bme_logo_kicsi_color.png" alt="fast-texture" height="50">
+              <img src="assets/img/bme.png" alt="BME" height="50">
             </td>
           </tr>
           <tr style="border: none;background-color:transparent">
