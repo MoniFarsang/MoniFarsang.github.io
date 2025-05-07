@@ -139,3 +139,6 @@ subtitle: PhD student @ TU Wien
 
 [[Science Outreach](https://www.linkedin.com/posts/engineering-for-life-sciences-doctoral-programme_msca-tuwien-enroldoctoralprogramme-ugcPost-7119955980393603072-F2mb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - Sep 2023] Promoted research at the European Researcher's Night. Vienna, Austria.
 
+[[Talk](https://www.linkedin.com/posts/m%C3%B3nika-farsang-076953214_liquidneuralnetworks-research-phd-activity-7086282268716990464-9slX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - Jul 2023] - Presenting my research pitch at the ENROL Doctoral College summer retreat. Neuhofen an der Ybbs, Austria.
+
+[[Doctoral College Summer Retreat](https://www.tuwien.at/en/enrol/enrol-training/enrol-summer-retreat-2023) - Jul 2023] - Focus on transferable skills for PhD students. Neuhofen an der Ybbs, Austria.
