@@ -9,11 +9,11 @@ Mónika Farsang and Radu Grosu. Liquid Capacitance-Extended Neural Circuits: Syn
 
 Mónika Farsang, Sophie A. Neubauer and Radu Grosu. Liquid Resistance Liquid Capacitance Networks. Accepted in Design and Verification of Cyber-Physical Systems: From Theory to Applications, Springer. 2025.
 
-Mónika Farsang, Mathias Lechner, David Lung, Ramin Hasani, Daniela Rus and Radu Grosu. Learning with Chemical versus Electrical Synapses - Does it Make a Difference? 2024 IEEE International Conference on Robotics and Automation (ICRA). 2024.
+Mónika Farsang, Mathias Lechner, David Lung, Ramin Hasani, Daniela Rus and Radu Grosu. [Learning with Chemical versus Electrical Synapses - Does it Make a Difference?](https://doi.org/10.1109/ICRA57147.2024.10611016) 2024 IEEE International Conference on Robotics and Automation (ICRA). 2024.
 
-Mónika Farsang and Luca Szegletes. Controlling Agents by Constrained Policy Updates. System Theory, Control and Computing Journal. 2021.
+Mónika Farsang and Luca Szegletes. [Controlling Agents by Constrained Policy Updates.](https://doi.org/10.52846/stccj.2021.1.2.24) System Theory, Control and Computing Journal. 2021.
 
-Mónika Farsang and Luca Szegletes. Decaying Clipping Range in Proximal Policy Optimization. 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI). 2021.
+Mónika Farsang and Luca Szegletes. [Decaying Clipping Range in Proximal Policy Optimization.](https://doi.org/10.1109/SACI51354.2021.9465602) 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI). 2021.
 
 # Workshop Papers and Preprints
 Felix Resch\*, Mónika Farsang\*, and Radu Grosu. [MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following.](https://arxiv.org/pdf/2409.18038) Under conference review. Arxiv preprint. 2025.
