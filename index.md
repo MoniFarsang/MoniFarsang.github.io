@@ -87,51 +87,55 @@ subtitle: PhD student @ TU Wien
 ## News
 [Paper Accepted - Apr 2025] "Deploying RGB-D Multimodal Controllers on Resource-Constrained Platforms" has been accepted at ICRA 2025 Robot Software Architectures (RSA25) Workshop. 
 
-[Preprint - Mar 2025] "MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following" 
+[[Preprint](https://doi.org/10.48550/arXiv.2409.18038) - Mar 2025] "MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following". 
 
-[Preprint - Mar 2025] "Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents"
+[[Preprint](https://doi.org/10.48550/arXiv.2503.16711) - Mar 2025] "Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents".
 
-[Talk - Mar 2025] "Increasing Inference Speed - Redesigning AI Models for Faster Decision-Making" at Pyrosoma AI. Vienna, Austria.
+[[Talk](https://www.linkedin.com/posts/pyrosoma-ai_ai-pizza-join-us-for-an-evening-of-innovation-activity-7307757273299185664-vS3r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - Mar 2025] "Increasing Inference Speed - Redesigning AI Models for Faster Decision-Making" at Pyrosoma AI. Vienna, Austria.
 
-[Science Outreach - Mar 2025] Promoted the Computer Engineering degree program of TU Wien at BeSt, Austria’s largest study fair. Vienna, Austria.
+[[Science Outreach](https://www.tuwien.at/inf/scuderia-segfault/news-detail/best-study-fair/) - Mar 2025] Promoted the Computer Engineering degree program of TU Wien at BeSt, Austria’s largest study fair. Vienna, Austria.
 
-[Talk - Jan 2025] "Towards Sustainable Machine Learning: Enhancing Efficiency with Bio-Inspired Neural Networks" at the Seminar Series of European Universities on Sustainability, TUM-IAS.
+[[Talk](https://www.ias.tum.de/ias/news-events-insights/events/events-single-view/article/scientists-meet-scientists-tum-ias-wednesday-coffee-talk-seminar-series-of-european-universities-on-sustainability-by-monika-farsang-towards-sustainable-machine-learning-enhancing-efficiency-with-bio-inspired-neural-networks/) - Jan 2025] "Towards Sustainable Machine Learning: Enhancing Efficiency with Bio-Inspired Neural Networks" at the Seminar Series of European Universities on Sustainability, TUM-IAS.
 
-[Workshop Participation - Jan 2025] Participated in the "Changing and Challenging Times: Institutions and Research Ethics" Workshop, TU Wien.
+[[Workshop Participation](https://www.linkedin.com/posts/changer-eu-project_researchethics-aiethics-responsibleai-ugcPost-7290468216701657089-ssFh?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - Jan 2025] Participated in the "Changing and Challenging Times: Institutions and Research Ethics" Workshop, TU Wien.
 
-[F1/10th Grand Prix - Dec 2024] Our racing team (Scuderia Segfault) won 1st place at the 22nd F1TENTH Autonomous Grand Prix at CDC 2024. Milano, Italy.
+[[F1/10th Grand Prix](https://www.tuwien.at/inf/scuderia-segfault/news-detail/victory-at-roboracer-autonomous-grand-prix-in-milano/) - Dec 2024] Our racing team (Scuderia Segfault) won 1st place at the 22nd F1TENTH Autonomous Grand Prix at CDC 2024. Milano, Italy.
 
-[Poster Presentation - Dec 2024] NeuroAI: Fusing Neuroscience and AI for Intelligent Solutions Workshop at NeurIPS. Vancouver, Canada.
+[[Poster Presentation](https://neuroai-workshop.github.io/previous_years/2024/accepted-papers.html) - Dec 2024] NeuroAI: Fusing Neuroscience and AI for Intelligent Solutions Workshop at NeurIPS. Vancouver, Canada.
 
-[Poster Presentation - Dec 2024] NeurIPS 19th Workshop for Women in Machine Learning Workshop. Vancouver, Canada. 
+[[Poster Presentation](https://neurips.cc/virtual/2024/affinity-event/105022) - Dec 2024] NeurIPS 19th Workshop for Women in Machine Learning Workshop. Vancouver, Canada. 
 
 [Grant - Dec 2024] I got the Conference Attendance Grant for female doctoral students as speakers (“Doktorandinnen der Informatik ans Rednerpult”) from the Faculty of Informatics TU Wien (€1,000) to present my research at NeurIPS 2024.
 
 [Grant - Oct 2024] I got a WiML Travel Funding from the WiML Organizing Committee ($1,200) to present my research at NeurIPS 2024.
 
-[Research Exchange - Sep 2024] I am starting my visiting research period at the Distributed Robotics Lab, CSAIL, MIT, USA.
+[[Research Exchange](https://www.marshallplan.at/featured-fellows/2025/1/2/monika-farsang) - Sep 2024] I am starting my visiting research period at the Distributed Robotics Lab, CSAIL, MIT, USA.
 
-[Summer School - Aug 2024] Participating in the IEEE RAS Summer School on Multi-Robot Systems. Prague, Czech Republic. 
+[[Summer School](https://mrs.fel.cvut.cz/summer-school-2024/) - Aug 2024] Participating in the IEEE RAS Summer School on Multi-Robot Systems. Prague, Czech Republic. 
 
-[Conference Attendance - Jul 2024] ICML, Vienna, Austria.
+[[Conference Attendance](https://icml.cc/Conferences/2024) - Jul 2024] ICML, Vienna, Austria.
 
-[Poster Presentation - Jul 2024] - Presenting my research at the ENROL Doctoral College summer retreat, Waidhofen an der Ybbs, Austria.
+[[Poster Presentation](https://www.linkedin.com/posts/engineering-for-life-sciences-doctoral-programme_the-last-enrol-summer-retreat-took-place-activity-7216015738031992832-EV3i?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - Jul 2024] - Presenting my research at the ENROL Doctoral College summer retreat, Waidhofen an der Ybbs, Austria.
 
-[Doctoral College Summer Retreat - Jul 2024] - Focus on the commercialisation of scientific research. Waidhofen an der Ybbs, Austria.
+[[Doctoral College Summer Retreat](https://www.linkedin.com/posts/engineering-for-life-sciences-doctoral-programme_the-last-enrol-summer-retreat-took-place-activity-7216015738031992832-EV3i?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - Jul 2024] - Focus on the commercialisation of scientific research. Waidhofen an der Ybbs, Austria.
 
-[Grant - Jun 2024] I have been nominated for the Marshall Plan Scholarship (€ 6500) to support my research stay at MIT.
+[[Grant](https://www.linkedin.com/posts/at-marshallplan_marshallplanscholarships-fosteringtransatlanticexcellence-activity-7212341512444010498-YxEA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - Jun 2024] I have been nominated for the Marshall Plan Scholarship (€ 6500) to support my research stay at MIT.
 
-[Summer School - Jun 2024] Participated in the 7th Advanced Course on Data Science & Machine Learning Summer School. Castiglione della Pescaia, Italy. 
+[[Summer School](https://acdl2024.icas.events/) - Jun 2024] Participated in the 7th Advanced Course on Data Science & Machine Learning Summer School. Castiglione della Pescaia, Italy. 
 
-[Science Outreach - May 2024] Presented my research at the Lange Nacht der Forschung 2024. Vienna, Austria.
+[[Science Outreach](https://www.tuwien.at/alle-news/news/das-war-die-lange-nacht-der-forschung-2024) - May 2024] Presented my research at the Lange Nacht der Forschung 2024. Vienna, Austria.
 
-[F1/10th Grand Prix - May 2024]  Our team (Scuderia Segfault) won 4th place at the 15th F1TENTH Autonomous Grand Prix at ICRA 2024. Yokohama, Japan.
+[[F1/10th Grand Prix](https://www.tuwien.at/inf/scuderia-segfault/news-detail/15th-grand-prix/) - May 2024]  Our team (Scuderia Segfault) won 4th place at the 15th F1TENTH Autonomous Grand Prix at ICRA 2024. Yokohama, Japan.
 
-[Oral Presentation - May 2024] "Learning with Chemical versus Electrical Synapses - Does it Make a Difference?" at ICRA 2024. Yokohama, Japan.
+[[Oral Presentation](https://doi.org/10.1109/ICRA57147.2024.10611016) - May 2024] "Learning with Chemical versus Electrical Synapses - Does it Make a Difference?" at ICRA 2024. Yokohama, Japan.
 
-[Poster Presentation - May 2024] "Learning with Chemical versus Electrical Synapses - Does it Make a Difference?" at ICRA 2024 Workshop on Bio-inspired Robotics and Robotics for Biology. Yokohama, Japan.
+[[Poster Presentation](https://li-lab.de/workshop/) - May 2024] "Learning with Chemical versus Electrical Synapses - Does it Make a Difference?" at ICRA 2024 Workshop on Bio-inspired Robotics and Robotics for Biology. Yokohama, Japan.
 
-[Academic Writing Retreat - Mar 2024] Academic Writing Retreat of the ENROL Doctoral College. Zwettl, Austria.
+[Grant - Mar 2024] I got the IEEE ICRA 2024 Travel Grant ($2,500).
 
-[Science Outreach - Sep 2023] Promoted research at the European Researcher's Night. Vienna, Austria.
+[[Academic Writing Retreat](https://www.linkedin.com/posts/engineering-for-life-sciences-doctoral-programme_the-enrol-academic-writing-retreat-took-place-activity-7173304232106749952-ZQ-4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - Mar 2024] Academic Writing Retreat of the ENROL Doctoral College. Zwettl, Austria.
+
+[[Workshop Participation](https://www.linkedin.com/posts/ioanna-giouroudi-37a35948_tuwien-tuwdoc-thrycon-ugcPost-7133487573074649088-E80z?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - Nov 2023] The Power of Networking for Scientists. Vienna, Austria.
+
+[[Science Outreach](https://www.linkedin.com/posts/engineering-for-life-sciences-doctoral-programme_msca-tuwien-enroldoctoralprogramme-ugcPost-7119955980393603072-F2mb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - Sep 2023] Promoted research at the European Researcher's Night. Vienna, Austria.
 
