@@ -99,7 +99,7 @@ subtitle: PhD student @ TU Wien
 
 [[Workshop Participation](https://www.linkedin.com/posts/changer-eu-project_researchethics-aiethics-responsibleai-ugcPost-7290468216701657089-ssFh?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - Jan 2025] Participated in the "Changing and Challenging Times: Institutions and Research Ethics" Workshop, TU Wien.
 
-[[F1/10th Grand Prix](https://www.tuwien.at/inf/scuderia-segfault/news-detail/victory-at-roboracer-autonomous-grand-prix-in-milano/) - Dec 2024] Our racing team (Scuderia Segfault) won 1st place at the 22nd F1TENTH Autonomous Grand Prix at CDC 2024. Milano, Italy.
+[[RoboRacer Grand Prix](https://www.tuwien.at/inf/scuderia-segfault/news-detail/victory-at-roboracer-autonomous-grand-prix-in-milano/) - Dec 2024] Our racing team (Scuderia Segfault) won 1st place at the 22nd RoboRacer Autonomous Grand Prix at CDC 2024. Milano, Italy.
 
 [[Poster Presentation](https://neuroai-workshop.github.io/previous_years/2024/accepted-papers.html) - Dec 2024] NeuroAI: Fusing Neuroscience and AI for Intelligent Solutions Workshop at NeurIPS. Vancouver, Canada.
 
@@ -125,7 +125,7 @@ subtitle: PhD student @ TU Wien
 
 [[Science Outreach](https://www.tuwien.at/alle-news/news/das-war-die-lange-nacht-der-forschung-2024) - May 2024] Presented my research at the Lange Nacht der Forschung 2024. Vienna, Austria.
 
-[[F1/10th Grand Prix](https://www.tuwien.at/inf/scuderia-segfault/news-detail/15th-grand-prix/) - May 2024]  Our team (Scuderia Segfault) won 4th place at the 15th F1TENTH Autonomous Grand Prix at ICRA 2024. Yokohama, Japan.
+[[RoboRacer Grand Prix](https://www.tuwien.at/inf/scuderia-segfault/news-detail/15th-grand-prix/) - May 2024]  Our team (Scuderia Segfault) won 4th place at the 15th RoboRacer Autonomous Grand Prix at ICRA 2024. Yokohama, Japan.
 
 [[Oral Presentation](https://doi.org/10.1109/ICRA57147.2024.10611016) - May 2024] "Learning with Chemical versus Electrical Synapses - Does it Make a Difference?" at ICRA 2024. Yokohama, Japan.
 
