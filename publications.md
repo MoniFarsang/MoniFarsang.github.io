@@ -20,7 +20,7 @@ Felix Resch\*, Mónika Farsang\*, and Radu Grosu. [MMDVS-LF: Multi-Modal Dynamic
 
 Mihaela-Larisa Clement\*, Mónika Farsang\*, Felix Resch and Radu Grosu. [Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents.](https://arxiv.org/pdf/2503.16711) Under conference review. Arxiv preprint. 2025.
 
-Mihaela-Larisa Clement\*, Mónika Farsang\*, Felix Resch and Radu Grosu. Deploying RGB-D Multimodal Controllers on Resource-Constrained Platforms. Accepted in Robot Software Architectures (RSA25). 2025.
+Mihaela-Larisa Clement\*, Mónika Farsang\*, Felix Resch and Radu Grosu. [Deploying RGB-D Multimodal Controllers on Resource-Constrained Platforms.](https://drive.google.com/file/d/14eiJA8KLLCWsB9R2HD7-KxxrOqyn6zAl/view) Robot Software Architectures (RSA25) co-located with IEEE ICRA. 2025.
 
 Mónika Farsang, Sophie A. Neubauer and Radu Grosu. [Liquid Resistance Liquid Capacitance Networks.](https://openreview.net/pdf?id=DzCxA1iovy) NeurIPS 2024 NeuroAI Workshop. 2024.
 
