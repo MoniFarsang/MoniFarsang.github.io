@@ -85,7 +85,7 @@ subtitle: PhD student @ TU Wien
 </table>
 
 ## News
-[Paper Accepted - Apr 2025] "Deploying RGB-D Multimodal Controllers on Resource-Constrained Platforms" has been accepted at ICRA 2025 Robot Software Architectures (RSA25) Workshop. 
+[[Poster Presentation](https://drive.google.com/file/d/14eiJA8KLLCWsB9R2HD7-KxxrOqyn6zAl/view) - April 2025] "Deploying RGB-D Multimodal Controllers on Resource-Constrained Platforms" has been accepted at ICRA 2025 Robot Software Architectures (RSA25) Workshop. 
 
 [[Preprint](https://doi.org/10.48550/arXiv.2409.18038) - Mar 2025] "MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following". 
 
