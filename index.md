@@ -85,6 +85,16 @@ subtitle: PhD student @ TU Wien
 </table>
 
 ## News
+[[Poster Presentation](https://openreview.net/forum?id=3qRWlWtPTo) - July 2025] Efficient Systems for Foundation Models Workshop at ICML 2025. Vancouver, Canada.
+
+[[Oral Presentation](https://doi.org/10.34726/9799) - June 2025] "Liquid Capacitance-Extended Neural Circuits: Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models" at International Conference on Engineering for Life Sciences 2025. Vienna, Austria.
+
+[[RoboRacer Grand Prix](https://www.tuwien.at/inf/scuderia-segfault/news-detail/autonomous-grand-prix-atlanta/) - May 2025] Our racing team (Scuderia Segfault) won 4th place at the 24th RoboRacer Autonomous Grand Prix at ICRA 2025. Atlanta, USA.
+
+[[Preprint](https://doi.org/10.48550/arXiv.2505.21717) - May 2025] "Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling".
+
+[[Preprint](https://doi.org/10.48550/arXiv.2505.24054) - May 2025] "Differential Gated Self-Attention".
+
 [[Poster Presentation](https://drive.google.com/file/d/14eiJA8KLLCWsB9R2HD7-KxxrOqyn6zAl/view) - April 2025] "Deploying RGB-D Multimodal Controllers on Resource-Constrained Platforms" has been accepted at ICRA 2025 Robot Software Architectures (RSA25) Workshop. 
 
 [[Preprint](https://doi.org/10.48550/arXiv.2409.18038) - Mar 2025] "MMDVS-LF: Multi-Modal Dynamic Vision Sensor and Eye-Tracking Dataset for Line Following". 
