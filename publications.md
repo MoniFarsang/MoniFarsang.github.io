@@ -16,7 +16,7 @@ Mónika Farsang and Luca Szegletes. [Controlling Agents by Constrained Policy Up
 Mónika Farsang and Luca Szegletes. [Decaying Clipping Range in Proximal Policy Optimization.](https://doi.org/10.1109/SACI51354.2021.9465602) 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI). 2021.
 
 # Workshop Papers and Preprints
-Mónika Farsang, Ramin Hasani, Daniela Rus, and Radu Grosu. [Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling](https://openreview.net/group?id=ICML.cc%2F2025%2FWorkshop%2FES-FoMo-III#tab-your-consoles). ES-FoMo III: 3rd Workshop on Efficient Systems for Foundation Models at ICML 2025.
+Mónika Farsang, Ramin Hasani, Daniela Rus, and Radu Grosu. [Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling.](https://openreview.net/group?id=ICML.cc%2F2025%2FWorkshop%2FES-FoMo-III#tab-your-consoles) ES-FoMo III: 3rd Workshop on Efficient Systems for Foundation Models at ICML 2025.
 
 Elpiniki Maria Lygizou, Mónika Farsang, and Radu Grosu. [Differential Gated Self-Attention.](https://doi.org/10.48550/arXiv.2505.24054) Arxiv preprint. 2025.
 
