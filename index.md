@@ -85,7 +85,13 @@ subtitle: PhD student @ TU Wien
 </table>
 
 ## News
-[[Poster Presentation](https://openreview.net/forum?id=3qRWlWtPTo) - July 2025] Efficient Systems for Foundation Models Workshop at ICML 2025. Vancouver, Canada.
+[[Mentorship](https://www.tuwien.at/en/research/tuw-doctoral-center/p2p-doc-mentorship-program) - Oct 2025] Selected as a mentor in the 2025/26 TUW P2P DOC Mentorship Program. Vienna, Austria.
+
+[[Accepted Paper](https://openreview.net/forum?id=ENYvdnyhLl&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions)) - Sept 2025] "Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling" got accepted at NeurIPS 2025. 
+
+[[Networking Event Organization](https://www.asai.ac.at/en/networking/asai-networking-event) - Sept 2025] Co-organized the Networking Event of the Austrian Society for Artificial Intelligence (ASAI). Vienna, Austria.
+
+[[Poster Presentation](https://openreview.net/forum?id=3qRWlWtPTo) - July 2025] Presented "Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling" at the Efficient Systems for Foundation Models Workshop at ICML 2025. Vancouver, Canada.
 
 [[Oral Presentation](https://doi.org/10.34726/9799) - June 2025] "Liquid Capacitance-Extended Neural Circuits: Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models" at International Conference on Engineering for Life Sciences 2025. Vienna, Austria.
 
