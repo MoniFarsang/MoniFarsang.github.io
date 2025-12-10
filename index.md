@@ -85,9 +85,13 @@ subtitle: PhD student @ TU Wien
 </table>
 
 ## News
+[[Poster Presentation](https://openreview.net/forum?id=ENYvdnyhLl) - Dec 2025] Presented "Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling" at WiML Workshop and Main Track at NeurIPS 2025. San Diego, USA.
+
+[[Talk](https://seafile.ist.ac.at/seafhttp/f/4f0ca64ee52d4d58bf24/?op=view) - Nov 2025] "Wiring Biology into AI: Bio-Inspired Models for Efficient Long-Sequence Processing" at ISTA Young Scientist Symposium 2025. Klosterneuburg, Austria.
+
 [[Mentorship](https://www.tuwien.at/en/research/tuw-doctoral-center/p2p-doc-mentorship-program) - Oct 2025] Selected as a mentor in the 2025/26 TUW P2P DOC Mentorship Program. Vienna, Austria.
 
-[[Accepted Paper](https://openreview.net/forum?id=ENYvdnyhLl&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions)) - Sept 2025] "Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling" got accepted at NeurIPS 2025. 
+[[Accepted Paper](https://openreview.net/forum?id=ENYvdnyhLl) - Sept 2025] "Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling" got accepted at NeurIPS 2025. 
 
 [[Networking Event Organization](https://www.asai.ac.at/en/networking/asai-networking-event) - Sept 2025] Co-organized the Networking Event of the Austrian Society for Artificial Intelligence (ASAI). Vienna, Austria.
 
