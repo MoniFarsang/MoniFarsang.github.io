@@ -5,6 +5,8 @@ subtitle:
 ---
 
 # Peer-reviewed Publications
+Mónika Farsang, Ramin Hasani, Daniela Rus, and Radu Grosu. [Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling.](https://openreview.net/forum?id=ENYvdnyhLl) NeurIPS 2025.
+
 Mónika Farsang and Radu Grosu. [Liquid Capacitance-Extended Neural Circuits: Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models.](https://doi.org/10.34726/9799) International Conference on Engineering for Life Sciences 2025.
 
 Mónika Farsang, Sophie A. Neubauer and Radu Grosu. Liquid Resistance Liquid Capacitance Networks. Accepted in Design and Verification of Cyber-Physical Systems: From Theory to Applications, Springer. 2025.
