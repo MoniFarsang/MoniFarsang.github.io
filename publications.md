@@ -9,7 +9,7 @@ Mónika Farsang, Ramin Hasani, Daniela Rus, and Radu Grosu. [Scaling Up Liquid-R
 
 Mónika Farsang and Radu Grosu. [Liquid Capacitance-Extended Neural Circuits: Synaptic Activation and Dual Liquid Dynamics for Interpretable Bio-Inspired Models.](https://doi.org/10.34726/9799) International Conference on Engineering for Life Sciences 2025.
 
-Mónika Farsang, Sophie A. Neubauer and Radu Grosu. Liquid Resistance Liquid Capacitance Networks. Accepted in Design and Verification of Cyber-Physical Systems: From Theory to Applications, Springer. 2025.
+Mónika Farsang, Sophie A. Neubauer and Radu Grosu. [Liquid Resistance Liquid Capacitance Networks.](https://doi.org/10.1007/978-3-032-16855-9_11) Design and Verification of Cyber-Physical Systems: From Theory to Applications, Springer. 2025.
 
 Mónika Farsang, Mathias Lechner, David Lung, Ramin Hasani, Daniela Rus and Radu Grosu. [Learning with Chemical versus Electrical Synapses - Does it Make a Difference?](https://doi.org/10.1109/ICRA57147.2024.10611016) 2024 IEEE International Conference on Robotics and Automation (ICRA). 2024.
 
@@ -18,6 +18,16 @@ Mónika Farsang and Luca Szegletes. [Controlling Agents by Constrained Policy Up
 Mónika Farsang and Luca Szegletes. [Decaying Clipping Range in Proximal Policy Optimization.](https://doi.org/10.1109/SACI51354.2021.9465602) 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI). 2021.
 
 # Workshop Papers and Preprints
+Mónika Farsang, Ramin Hasani, Daniela Rus, Radu Grosu. [Looped SSMs: Depth-Recurrence and Input Reshaping for Time Series Classification](https://doi.org/10.48550/arXiv.2605.16048) Arxiv preprint. 2026.
+
+Julian Lemmel\*, Felix Resch\*, Mónika Farsang, Ramin Hasani, Daniela Rus, Radu Grosu. [Adaptive Control in Autonomous Driving via Real-Time Recurrent RL](https://doi.org/10.48550/arXiv.2602.02236) Arxiv preprint. 2026.
+
+Julian Lemmel\*, Felix Resch\*, Mónika Farsang, Ramin Hasani, Daniela Rus, Radu Grosu. [Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL](https://openreview.net/forum?id=8wZLwpLErT) Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop at ICLR 2026.
+
+Mihaela-Larisa Clement\*, Mónika Farsang\*, Mihai-Teodor Stanusoiu, Ramin Hasani, Daniela Rus, Radu Grosu, Ezio Bartocci. [Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving](https://openreview.net/forum?id=00k7BU3c6B) Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop at ICLR 2026.
+
+Mihaela-Larisa Clement, Mónika Farsang, Agnes Poks, Johannes Edelmann, Manfred Plöchl, Radu Grosu, Ezio Bartocci. [Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling](https://doi.org/10.48550/arXiv.2603.24503) Arxiv preprint. 2026.
+
 Mónika Farsang, Ramin Hasani, Daniela Rus, and Radu Grosu. [Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling.](https://openreview.net/group?id=ICML.cc%2F2025%2FWorkshop%2FES-FoMo-III#tab-your-consoles) ES-FoMo III: 3rd Workshop on Efficient Systems for Foundation Models at ICML 2025.
 
 Elpiniki Maria Lygizou, Mónika Farsang, and Radu Grosu. [Differential Gated Self-Attention.](https://doi.org/10.48550/arXiv.2505.24054) Arxiv preprint. 2025.
