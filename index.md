@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Monika Farsang
-subtitle: PhD student @ TU Wien
+subtitle: PhD student @ TU Wien | MIT 
 ---
 
 <p style="text-align: justify;">I am a PhD student in Computer Engineering at the Vienna University of Technology (TU Wien), co-supervised by Prof. Radu Grosu (TU Wien), Prof. Gerhard Schütz (TU Wien), and Prof. Daniela Rus (MIT). My research focuses on the interpretability of bio-inspired neural networks in robotics and autonomous systems. I work with architectures such as Neural Circuit Policies (NCPs) and Liquid Time-Constant Networks (LTCs), inspired by <em>C. elegans</em>, to enhance transparency and trust in AI decision-making while ensuring efficiency for real-world applications.</p>
@@ -12,6 +12,9 @@ subtitle: PhD student @ TU Wien
     <tbody>
         <tr style="border: none;">
             <td style="padding-top:0px;width:25%;vertical-align:middle;text-align:center;max-height:100px;border: none;">
+              <img src="assets/img/mit.png" alt="MIT CSAIL" height="50">
+            </td>
+            <td style="padding-top:0px;width:25%;vertical-align:middle;text-align:center;max-height:100px;border: none;">
               <img src="assets/img/tuwien.png" alt="TU Wien" height="50">
             </td>
             <td style="padding-top:0px;width:25%;vertical-align:middle;text-align:center;max-height:100px;border: none;">
@@ -20,11 +23,15 @@ subtitle: PhD student @ TU Wien
             <td style="padding-top:0px;width:25%;vertical-align:middle;text-align:center;max-height:100px;border: none;">
               <img src="assets/img/microsoft.png" alt="Microsoft Research" height="50">
             </td>
-            <td style="padding-top:0px;width:25%;vertical-align:middle;text-align:center;max-height:100px;border: none;">
-              <img src="assets/img/bosch-logo.png" alt="Bosch" height="50">
-            </td>
           </tr>
           <tr style="border: none;background-color:transparent">
+              <td style="font-size: small;padding-bottom:50px;padding-top:5px;width:25%;vertical-align:middle;text-align:center;border: none;">
+<span style="font-size: medium;">
+              MIT CSAIL</span>
+    <br>
+              Visiting Researcher<br>
+              03/2026-Present
+            </td>
             <td style="font-size: small;padding-bottom:50px;padding-top:5px;width:25%;vertical-align:middle;text-align:center;border: none;"><span style="
     font-size: medium;
 ">TU Wien</span><br>
@@ -45,13 +52,11 @@ subtitle: PhD student @ TU Wien
               Open Source Developer<br>
               04/2021-08/2021
             </td>
-            <td style="font-size: small;padding-bottom:50px;padding-top:5px;width:25%;vertical-align:middle;text-align:center;border: none;">
-<span style="font-size: medium;">Bosch</span><br>
-              Software Developer Intern<br>
-              06/2019-08/2021
-</td>
           </tr>
           <tr style="border: none;">
+              <td style="font-size: small;padding:0px;margin-bottom:-50px;width:25%;vertical-align:middle;text-align:center;border: none;">
+              <img src="assets/img/bosch-logo.png" alt="Bosch" height="50">
+            </td>
             <td style="font-size: small;padding:0px;margin-bottom:-50px;width:25%;vertical-align:middle;text-align:center;border: none;">
               <img src="assets/img/bme.png" alt="BME" height="50">
             </td>
@@ -63,6 +68,12 @@ subtitle: PhD student @ TU Wien
             </td>
           </tr>
           <tr style="border: none;background-color:transparent">
+              <td style="font-size: small;padding-bottom:30px;padding-top:5px;width:25%;vertical-align:middle;text-align:center;border: none;">
+<span style="font-size: medium;">Bosch</span>
+              <br>
+              Software Developer Intern<br>
+              06/2019-08/2021
+            </td>
             <td style="font-size: small;padding-bottom:30px;padding-top:5px;width:25%;vertical-align:middle;text-align:center;border: none;">
 <span style="font-size: medium;">BME</span>
               <br>
