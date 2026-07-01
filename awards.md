@@ -5,6 +5,12 @@ subtitle:
 ---
 NeurIPS 2025 Scholar Award, San Diego, USA, Dec 2025.
 
+Conference Attendance Grant for female doctoral students as speakers ("Doktorandinnen der Informatik ans Rednerpult") from the Faculty of Informatics TU Wien (€1,000), Dec 2025.
+
+Travel and Conference Ticket Grant for Young Researchers from the Austrian Society for Artificial Intelligence (ASAI) (€300), Nov 2025.
+
+WiML Travel Funding from the [WiML](https://www.wiml.org/) Organizing Committee ($1,400), Oct 2025.
+
 [4th Place at the 24th Roboracer Autonomous Grand Prix Competition](https://www.tuwien.at/alle-news/news/great-performance-beim-autonomous-grand-prix-in-atlanta) @ ICRA 2025, Atlanta, GA, USA, from RoboRacer, May 2025.
 
 [1st Place at the 22nd F1TENTH Autonomous Grand Prix](https://www.tuwien.at/inf/scuderia-segfault/news-detail/victory-at-roboracer-autonomous-grand-prix-in-milano/) @ CDC 2024, Milan, Italy, from F1TENTH Autonomous Racing, Dec 2024.
