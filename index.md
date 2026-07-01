@@ -96,9 +96,25 @@ subtitle: PhD student @ TU Wien | MIT
 </table>
 
 ## News
+[[RoboRacer Grand Prix](https://www.linkedin.com/posts/great-work-by-all-involved-ugcPost-7471631589169516544-ZPa-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - June 2026] Supported this year's RoboRacer Competition at ICRA 2026 as Race Marshal. Vienna, Austria.
+
+[[Preprint](https://doi.org/10.48550/arXiv.2605.16048) - May 2026] "Looped SSMs: Depth-Recurrence and Input Reshaping for Time Series Classification".
+
+[[Preprint](https://doi.org/10.48550/arXiv.2602.02236) - May 2026] "Adaptive Control in Autonomous Driving via Real-Time Recurrent RL".
+
+[[Poster Presentation 1](https://openreview.net/pdf?id=8wZLwpLErT) and [2](https://openreview.net/pdf?id=00k7BU3c6B) - April 2026] Presented "Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL" and "Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving" at Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop at ICLR 2026. Rio de Janeiro, Brazil.
+
+[Research Exchange - Mar 2026] I am starting my new visiting research period at the Distributed Robotics Lab, CSAIL, MIT, USA.
+
 [[Poster Presentation](https://openreview.net/forum?id=ENYvdnyhLl) - Dec 2025] Presented "Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling" at WiML Workshop and Main Track at NeurIPS 2025. San Diego, USA.
 
+[Grant - Dec 2025] I got the Conference Attendance Grant for female doctoral students as speakers (“Doktorandinnen der Informatik ans Rednerpult”) from the Faculty of Informatics TU Wien (€1,000) to present my research at NeurIPS 2025.
+
+[Grant - Nov 2025] I got the Travel and Conference Ticket Grant for Young Researchers from the Austrian Society for Artificial Intelligence (ASAI) (€300).
+
 [[Talk](https://seafile.ist.ac.at/seafhttp/f/4f0ca64ee52d4d58bf24/?op=view) - Nov 2025] "Wiring Biology into AI: Bio-Inspired Models for Efficient Long-Sequence Processing" at ISTA Young Scientist Symposium 2025. Klosterneuburg, Austria.
+
+[Grant - Oct 2025] I got a WiML Travel Funding from the WiML Organizing Committee ($1,400) to present my research at NeurIPS 2025.
 
 [[Mentorship](https://www.tuwien.at/en/research/tuw-doctoral-center/p2p-doc-mentorship-program) - Oct 2025] Selected as a mentor in the 2025/26 TUW P2P DOC Mentorship Program. Vienna, Austria.
 
