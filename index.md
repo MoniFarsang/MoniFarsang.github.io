@@ -104,6 +104,8 @@ subtitle: PhD student @ TU Wien | MIT
 
 [[Poster Presentation 1](https://openreview.net/pdf?id=8wZLwpLErT) and [2](https://openreview.net/pdf?id=00k7BU3c6B) - April 2026] Presented "Online Fine-Tuning of Pretrained Controllers for Autonomous Driving via Real-Time Recurrent RL" and "Evaluating Domain-Shift Generalization of Liquid Neural Networks in Autonomous Driving" at Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop at ICLR 2026. Rio de Janeiro, Brazil.
 
+[[Preprint](https://doi.org/10.48550/arXiv.2603.24503) - Mar 2026] "Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling".
+
 [Research Exchange - Mar 2026] I am starting my new visiting research period at the Distributed Robotics Lab, CSAIL, MIT, USA.
 
 [[Poster Presentation](https://openreview.net/forum?id=ENYvdnyhLl) - Dec 2025] Presented "Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling" at WiML Workshop and Main Track at NeurIPS 2025. San Diego, USA.
