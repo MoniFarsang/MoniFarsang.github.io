@@ -4,7 +4,7 @@ title: Monika Farsang
 subtitle: PhD student @ TU Wien | MIT 
 ---
 
-<p style="text-align: justify;">I am a PhD student in Computer Engineering at the Vienna University of Technology (TU Wien), co-supervised by Prof. Radu Grosu (TU Wien), Prof. Gerhard Schütz (TU Wien), and Prof. Daniela Rus (MIT). My research focuses on the interpretability of bio-inspired neural networks in robotics and autonomous systems. I work with architectures such as Neural Circuit Policies (NCPs) and Liquid Time-Constant Networks (LTCs), inspired by <em>C. elegans</em>, to enhance transparency and trust in AI decision-making while ensuring efficiency for real-world applications.</p>
+<p style="text-align: justify;">I am a PhD student in Computer Engineering at the Vienna University of Technology (TU Wien), co-supervised by Prof. Radu Grosu (TU Wien), Prof. Gerhard Schütz (TU Wien), and Prof. Daniela Rus (MIT). My research focuses on the interpretability and scalability of bio-inspired neural networks in robotics and autonomous systems. I work with architectures such as Neural Circuit Policies (NCPs) and Liquid Time-Constant Networks (LTCs), inspired by <em>C. elegans</em>, to enhance transparency and trust in AI decision-making while ensuring efficiency for real-world applications.</p>
 
 ## Education & Experience
 
@@ -100,9 +100,11 @@ subtitle: PhD student @ TU Wien | MIT
 
 [[Grant](https://www.tuwien.at/en/research/funding-opportunities/awards/lions-sponsorship/lions-sponsorship-2026/price-winner) - Jul 2026] I received the [Lions Sponsorship](https://www.tuwien.at/en/research/funding-opportunities/awards/lions-sponsorship) 2026 from Lions Club Wien St. Stephan and TU Wien.
 
+[[Project Grant](https://lnkd.in/p/dUBC_Bpe) - Jul 2026] Our project [AIDA (AI-Driven Distributed Autonomy)](https://www.fwf.ac.at/en/research-radar/10.55776/PAT3743226) has been awarded funding through the Principal Investigator Projects program of the Austrian Science Fund FWF.
+
 [[RoboRacer Grand Prix](https://www.linkedin.com/posts/great-work-by-all-involved-ugcPost-7471631589169516544-ZPa-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - June 2026] Supported this year's RoboRacer Competition at ICRA 2026 as Race Marshal. Vienna, Austria.
 
-[[Preprint](https://doi.org/10.48550/arXiv.2605.16048) - May 2026] "Looped SSMs: Depth-Recurrence and Input Reshaping for Time Series Classification".
+[[Preprint](https://doi.org/10.48550/arXiv.2605.16048) - May 2026] "Reshape and Recur: Improving SSMs with Input Reshaping and Depth Recurrence".
 
 [[Preprint](https://doi.org/10.48550/arXiv.2602.02236) - May 2026] "Adaptive Control in Autonomous Driving via Real-Time Recurrent RL".
 
