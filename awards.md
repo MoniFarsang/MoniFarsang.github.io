@@ -3,6 +3,9 @@ layout: page
 title: Awards and Honors
 subtitle: 
 ---
+
+[Lions Sponsorship 2026](https://www.tuwien.at/en/research/funding-opportunities/awards/lions-sponsorship/lions-sponsorship-2026/price-winner) from Lions Club Wien St. Stephan and TU Wien (€4,000), July 2026.
+
 NeurIPS 2025 Scholar Award, San Diego, USA, Dec 2025.
 
 Conference Attendance Grant for female doctoral students as speakers ("Doktorandinnen der Informatik ans Rednerpult") from the Faculty of Informatics TU Wien (€1,000), Dec 2025.
