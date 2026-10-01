@@ -96,6 +96,10 @@ subtitle: PhD student @ TU Wien | MIT
 </table>
 
 ## News
+[[Preprint](https://doi.org/10.48550/arXiv.2609.35441) - Sept 2026] "Riccati State Space Models: Non-iterative Parallelization for Nonlinear Sequence Modeling".
+
+[[Grant](https://www.tuwien.at/en/research/funding-opportunities/awards/lions-sponsorship/lions-sponsorship-2026/price-winner) - Jul 2026] I received the [Lions Sponsorship](https://www.tuwien.at/en/research/funding-opportunities/awards/lions-sponsorship) 2026 from Lions Club Wien St. Stephan and TU Wien.
+
 [[RoboRacer Grand Prix](https://www.linkedin.com/posts/great-work-by-all-involved-ugcPost-7471631589169516544-ZPa-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADY-1ZoBs47NEbF7a1gc4_WN7IsmKq1hJck) - June 2026] Supported this year's RoboRacer Competition at ICRA 2026 as Race Marshal. Vienna, Austria.
 
 [[Preprint](https://doi.org/10.48550/arXiv.2605.16048) - May 2026] "Looped SSMs: Depth-Recurrence and Input Reshaping for Time Series Classification".
